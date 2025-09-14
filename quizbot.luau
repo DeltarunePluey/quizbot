@@ -802,6 +802,16 @@ countriesHard:Add("What country is this? 🇫🇮", {"Finland", "Sweden", "Falkl
 countriesHard:Add("What country is this? 🇿🇲", {"Zambia", "Zimbabwe", "Zaire"}, 2)
 countriesHard:Add("What country is this? 🇸🇴", {"Somalia", "Solomon Islands", "Samoa"})
 
+local deltarune = CustomCategoryManager.New("Deltarune", "easy")
+deltarune:Add("What time is it right now?", {"TV TIME!!!", "TV-Thirty!", "Past Midnight", "Thursday"})
+deltarune:Add("Brand A values this Ralsei plush at $8 What's the true value!?", {"$32.00 MSRP", "Lower", "Priceless", "$1")
+deltarune:Add("What's Kris's favorite food?", {"Pie", "Chocolate", "Salsa", "Jam"}, 2)
+deltarune:Add("What is the highly memorable heading of TV Time?", {"Marvelous Mystery Board", "Don't Touch That Dial!", "Magical Mystery Board", "Don't Lick The Screen!"})
+deltarune:Add("What was Asriel's favorite character in Smashing Fighters?", {"Sword Magician", "Big Penguin", "Purple Dragon", "Green Lizard"}
+deltarune:Add("Look Kris... I... I'm still __!", {"Smiling", "Ralsei", "Mad", "Frowning", 2}
+deltarune:Add("In the vessel creation sequence, you set a favorite color to your vessel. Which of the following is NOT an answer option?", {"Orange", "Blue", "Green", "Cyan"}
+deltarune:Add("How do you treat your Ralsei plush?", {"Treat it with care", "Dunk it in water", "Clean up messes", "Put it in the jar"}
+
 local science = categoryManager.New("Science", "medium")
 science:Add("The standard unit of measurement used for measuring force is which of the following?", {"Newton", "Mile", "Watt", "Kilogram"})
 science:Add("How long does it take the earth to do one full rotation of the sun?", {"365 days", "7 days", "30 days"})
